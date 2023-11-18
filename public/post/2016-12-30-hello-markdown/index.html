@@ -1,209 +1,268 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  
+<html lang="en-us">
+  <head>
     
-  <title>A Plain Markdown Post | Puppet</title>
-  <meta name="author" content="Puppet">
-  <meta name="description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown.">
-  <meta name="keywords" content="blog,developer,personal">
+    <script type="application/ld+json">
 
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="A Plain Markdown Post"/>
-<meta name="twitter:description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown."/>
-<meta name="twitter:site" content="@johndoe"/>
-
-  <meta property="og:title" content="A Plain Markdown Post" />
-<meta property="og:description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/subdir/post/2016-12-30-hello-markdown/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2016-12-30T21:49:57-07:00" />
-<meta property="article:modified_time" content="2016-12-30T21:49:57-07:00" />
-
-
-
-  <link rel="stylesheet" href="/subdir/css/bootstrap.min.css"  crossorigin="anonymous">
-  
-  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
-
-  <link rel="stylesheet" href="/subdir/sass/main.css">
-
-  <link rel="stylesheet" href="/subdir/zoomjs/zoom.min.css">
-
-  <script src=/subdir/js/lazysizes.min.js></script>
-
-  
-  <link rel="apple-touch-icon" sizes="180x180" href="/subdir/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/subdir/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/subdir/favicon-16x16.png">
-  <link rel="manifest" href="/subdir/site.webmanifest">
-  
-
-</head>
-
-
-
-<body ontouchstart="">
-  <nav class="navbar navbar-default navbar-custom navbar-fixed-top invert">
-  <div class="container-fluid">
+{  
+  "@context":"http://schema.org",
+  "@type":"Website",
+  "@id":"https:\/\/example.org\/",
+  "author": {
+    "@type": "Person",
+    "name": "Firstname Lastname",
     
-    <div class="navbar-header page-scroll">
-      <button type="button" class="navbar-toggle">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="http://localhost:1313/subdir">Puppet</a>
-    </div>
+    "image": "https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c"
     
-    <div id="huxblog_navbar">
-      <div class="navbar-collapse">
-        <ul class="nav navbar-nav navbar-right">
-          
-          <li><a href="/subdir/" title="Home">Home</a></li>
-          
-          <li><a href="/subdir/archive/" title="Archive">Archive</a></li>
-          
-          <li><a href="/subdir/series/themes-guide/" title="Guide">Guide</a></li>
-          
-          <li><a href="/subdir/about/" title="About">About</a></li>
-          
-          <li><a href="https://github.com/roninro/hugo-theme-puppet/" title="Github">Github</a></li>
-          
+  },
+  "name":"Hugo tranquilpeak theme",
+  "description":"This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:\nYou cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (\u0060\u0060\u0060{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday\u0026rsquo;s Markdown and Pandoc\u0026rsquo;s Markdown.",
+  "url":"https:\/\/example.org\/post\/2016-12-30-hello-markdown\/",
+  "keywords":"[]"
+}
 
-          <li class="search-icon">
-            <a href="javascript:void(0)">
-              <i class="fa fa-search"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    
-  </div>
-  
-</nav>
-<script>
-  
-  
-  
-  var $body = document.body;
-  var $toggle = document.querySelector(".navbar-toggle");
-  var $navbar = document.querySelector("#huxblog_navbar");
-  var $collapse = document.querySelector(".navbar-collapse");
-
-  var __HuxNav__ = {
-    close: function () {
-      $navbar.className = " ";
-      
-      setTimeout(function () {
-        
-        if ($navbar.className.indexOf("in") < 0) {
-          $collapse.style.height = "0px";
-        }
-      }, 400);
-    },
-    open: function () {
-      $collapse.style.height = "auto";
-      $navbar.className += " in";
-    },
-  };
-
-  
-  $toggle.addEventListener("click", function (e) {
-    if ($navbar.className.indexOf("in") > 0) {
-      __HuxNav__.close();
-    } else {
-      __HuxNav__.open();
-    }
-  });
-
-  
-
-  document.addEventListener("click", function (e) {
-    if (e.target == $toggle) return;
-    if (e.target.className == "icon-bar") return;
-    __HuxNav__.close();
-  });
 </script>
-  
-<div class="search-page">
-  <div class="search-icon-close-container">
-    <span class="search-icon-close">
-      <i class="fa fa-chevron-down"></i>
-    </span>
-  </div>
-  <div class="search-main container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <form></form>
-        <input type="text" id="search-input" placeholder="$ grep...">
-        </form>
-        <div id="search-results" class="mini-post-list"></div>
-      </div>
-    </div>
-  </div>
-</div>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.120.4 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Firstname Lastname">
+<meta name="keywords" content="">
+<meta name="description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown.">
+
+
+<meta property="og:description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A Plain Markdown Post">
+<meta name="twitter:title" content="A Plain Markdown Post">
+<meta property="og:url" content="https://example.org/post/2016-12-30-hello-markdown/">
+<meta property="twitter:url" content="https://example.org/post/2016-12-30-hello-markdown/">
+<meta property="og:site_name" content="Hugo tranquilpeak theme">
+<meta property="og:description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown.">
+<meta name="twitter:description" content="This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown.">
+<meta property="og:locale" content="en-us">
 
   
+    <meta property="article:published_time" content="2016-12-30T21:49:57">
+  
+  
+    <meta property="article:modified_time" content="2016-12-30T21:49:57">
+  
+  
+  
   
 
 
-<style type="text/css">
-  header.intro-header {
-    position: relative;
-    background-image: url('');
-  }
-</style>
+<meta name="twitter:card" content="summary">
 
-<header class="intro-header style-text">
 
-  <div class="header-mask"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="post-heading">
-          <div class="tags">
-            
-          </div>
-          <h1>A Plain Markdown Post</h1>
-          <h2 class="subheading"></h2>
-          <span class="meta">
-            Posted by  Puppet 
-            on Fri, Dec 30, 2016
-          </span>
-        </div>
-      </div>
-    </div>
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=640">
+
+
+
+
+
+
+    <title>A Plain Markdown Post</title>
+
+    <link rel="icon" href="https://example.org/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://example.org/post/2016-12-30-hello-markdown/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://example.org/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="1">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://example.org/" aria-label="Go to homepage">Hugo tranquilpeak theme</a>
   </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://example.org/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
 </header>
 
+      <nav id="sidebar" data-behavior="1">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://example.org/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Firstname Lastname</h4>
+        
+          <h5 class="sidebar-profile-bio">Super bio with markdown support <strong>COOL</strong></h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
 
-  
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
 
 
-<article>
-  <div class="container">
-    <div class="row">
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://example.org/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
 
       
-      <div class="
-              col-lg-8 col-lg-offset-2
-              col-md-10 col-md-offset-1
-              post-container">
-        <p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
+
+      <div id="main" data-behavior="1"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      A Plain Markdown Post
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2016-12-30T21:49:57-07:00">
+        
+  December 30, 2016
+
+      </time>
+    
+    
+  </div>
+
+</div>
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
 <ol>
 <li>You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (<code>```{r}</code>);</li>
-<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/" target="_blank">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com" target="_blank"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org" target="_blank">Pandoc</a>.</li>
+<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org">Pandoc</a>.</li>
 </ol>
 <p>There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:</p>
 <ul>
@@ -212,252 +271,333 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
 <li><input disabled="" type="checkbox"> &hellip;</li>
 <li><input disabled="" type="checkbox"> Profit!</li>
 </ul>
-<p>Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (<a href="https://github.com/yihui/hugo-lithium" target="_blank">hugo-lithium</a>) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: <code>`$ $`</code>; display style: <code>`$$ $$`</code>), e.g., <code>$S_n = \sum_{i=1}^n X_i$</code>.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., <code>\$50 and $100</code> renders &ldquo;$50 and $100&rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.</p>
+<p>Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (<a href="https://github.com/yihui/hugo-lithium">hugo-lithium</a>) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: <code>`$ $`</code>; display style: <code>`$$ $$`</code>), e.g., <code>$S_n = \sum_{i=1}^n X_i$</code>.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., <code>\$50 and $100</code> renders &ldquo;$50 and $100&rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.</p>
 <p>When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the <code>ext</code> argument of the function <code>blogdown::new_post()</code>, e.g.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>blogdown<span style="color:#ff79c6">::</span><span style="color:#50fa7b">new_post</span>(<span style="color:#f1fa8c">&#34;Post Title&#34;</span>, ext <span style="color:#ff79c6">=</span> <span style="color:#f1fa8c">&#39;.Rmd&#39;</span>)
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>blogdown<span style="color:#f92672">::</span><span style="color:#a6e22e">new_post</span>(<span style="color:#e6db74">&#34;Post Title&#34;</span>, ext <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;.Rmd&#39;</span>)
 </span></span></code></pre></div>
+              
 
-        <hr style="visibility: hidden;" />
-        <ul class="pager">
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
           
-          <li class="previous">
-            <a href="/subdir/about/" data-toggle="tooltip" data-placement="top" title="About">
-              Previous<br>
-              <span>About</span>
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://example.org/post/2020-12-01-r-rmarkdown/" data-tooltip="Hello R Markdown" aria-label="NEXT: Hello R Markdown">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
             </a>
-          </li>
+        </li>
+        <li class="post-action">
           
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://example.org/post/2015-01-01-lorem-ipsum/" data-tooltip="Lorem Ipsum" aria-label="PREVIOUS: Lorem Ipsum">
           
-          <li class="next">
-            <a href="/subdir/posts/emoji-support/" data-toggle="tooltip" data-placement="top" title="Emoji Support">
-              Next<br>
-              <span>Emoji Support</span>
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
             </a>
-          </li>
-          
-        </ul>
-        <hr style="visibility: hidden;" />
-
-        
-        
-
-
-
-<div class="giscus" id="comments"></div>
-<script src="https://giscus.app/client.js" 
-  data-repo="roninro/hugo-theme-puppet" 
-  data-repo-id="R_kgDOHuvyhw"
-  data-category="General"
-  data-category-id="DIC_kwDOHuvyh84CQjDo"
-  data-mapping="pathname"
-  data-strict="0" 
-  data-reactions-enabled="1" 
-  data-emit-metadata="0" 
-  data-input-position="top"
-  data-theme="light_tritanopia"
-  data-lang="en"
-  crossorigin="anonymous"
-  async>
-  </script>
-
-
-
-
-      </div>
-
+        </li>
       
-      
-      
-      
-      <div class="
-              col-lg-8 col-lg-offset-2
-              col-md-10 col-md-offset-1
-              sidebar-container">
-
-        
-        
-        <section>
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
   
   
-  <hr class="hidden-sm hidden-xs">
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
   
-  <h5>FEATURED TAGS</h5>
-  <div class="tags">
+  <li class="post-action">
     
-    <a href="/subdir/tags/css/">css</a>
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
     
-    <a href="/subdir/tags/documentation/">documentation</a>
-    
-    <a href="/subdir/tags/emoji/">emoji</a>
-    
-    <a href="/subdir/tags/guide/">guide</a>
-    
-    <a href="/subdir/tags/html/">html</a>
-    
-    <a href="/subdir/tags/markdown/">markdown</a>
-    
-    <a href="/subdir/tags/plot/">plot</a>
-    
-    <a href="/subdir/tags/privacy/">privacy</a>
-    
-    <a href="/subdir/tags/r-markdown/">R Markdown</a>
-    
-    <a href="/subdir/tags/regression/">regression</a>
-    
-    <a href="/subdir/tags/shortcodes/">shortcodes</a>
-    
-    <a href="/subdir/tags/text/">text</a>
-    
-  </div>
-</section>
-
-        
-        
-
-<hr>
-<h5>FRIENDS</h5>
-<ul class="list-inline">
-  
-  <li><a href="https://gohugo.io" target="_blank">John Doe</a></li>
-  
-  <li><a href="https://gohugo.io" target="_blank">John Doe</a></li>
-  
+    </a>
+  </li>
 </ul>
-
-      </div>
-    </div>
-  </div>
-</article>
+</div>
 
 
-
+            
   
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <ul class="list-inline text-center">
-
-<li>
-  <a href="https://github.com/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://linkedin.com/in/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://twitter.com/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://facebook.com/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://gitlab.com/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://weibo.com/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-weibo fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://www.zhihu.com/people/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-stack-1x fa-inverse">知</i>
-    </span>
-  </a>
-</li>
-
-<li>
-  <a href="https://mastodon.social/johndoe" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li>
-
-
-<li>
-  <a href="/subdir/index.xml" target="_blank">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-circle fa-stack-2x"></i>
-      <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-    </span>
-  </a>
-</li></ul>
-
-        <p class="copyright text-muted">
-          Copyright &copy; Puppet 2023  
-          <br>
-          Powered by <a href="https://gohugo.io">Hugo</a>
-        </p>
-      </div>
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
     </div>
-  </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/example.org\/post\/2016-12-30-hello-markdown\/';
+        
+          this.page.identifier = '\/post\/2016-12-30-hello-markdown\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'hugo-tranquilpeak-theme';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2023 Firstname Lastname. All Rights Reserved
+  </span>
 </footer>
 
-<script src=/subdir/js/jquery.min.js></script>
-<script src=/subdir/js/bootstrap.min.js crossorigin="anonymous"></script>
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="1">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://example.org/post/2020-12-01-r-rmarkdown/" data-tooltip="Hello R Markdown" aria-label="NEXT: Hello R Markdown">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://example.org/post/2015-01-01-lorem-ipsum/" data-tooltip="Lorem Ipsum" aria-label="PREVIOUS: Lorem Ipsum">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://example.org/post/2016-12-30-hello-markdown/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="1">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexample.org%2Fpost%2F2016-12-30-hello-markdown%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fexample.org%2Fpost%2F2016-12-30-hello-markdown%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fexample.org%2Fpost%2F2016-12-30-hello-markdown%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/d09dc2d7aa5c467519e8af89f7b3d94c?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Firstname Lastname</h4>
+    
+      <div id="about-card-bio">Super bio with markdown support <strong>COOL</strong></div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Your job title
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        France
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('https://example.org/images/cover.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://example.org/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
 
 
 
-<script src="/subdir/js/hux-blog.min.c4ea77041cd3edbfc8b2622cd887a9a5d8760a4162d14489e36d2a3fa4c90172.js"></script>
 
-
-<script src=/subdir/js/simple-jekyll-search.min.js></script>
-
-
-<script src="/subdir/js/search.min.9bc7c4992c9980294ae419313d196445cf7ceefad83327526492af2eae0c31e4.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src="/subdir/zoomjs/zoom.min.js"></script>
-
-</body>
-
+    
+  </body>
 </html>
+

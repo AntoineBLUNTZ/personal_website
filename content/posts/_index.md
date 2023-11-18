@@ -1,4 +1,4 @@
----
-author: Hugo Authors
-title: Posts
----
++++
+title = "Posts"
+author = "Hugo Authors"
++++

@@ -1,5 +1,5 @@
----
-author: Hugo Authors
----
++++
+author = "Hugo Authors"
++++
 
 Home Index Content

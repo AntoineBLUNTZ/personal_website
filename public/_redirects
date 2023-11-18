@@ -1,0 +1,7 @@
+# Netlify redirects
+# Automatically generated
+# Documentation: https://docs.netlify.com/routing/redirects/
+/migrate-from-jekyll /posts/markdown-syntax/
+/about-us /about/
+/about-hugo /about/
+/contact /about/

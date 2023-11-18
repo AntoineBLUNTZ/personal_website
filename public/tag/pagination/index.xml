@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pagination | Academic</title>
+    <link>https://example.com/tag/pagination/</link>
+      <atom:link href="https://example.com/tag/pagination/index.xml" rel="self" type="application/rss+xml" />
+    <description>pagination</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>pagination</title>
+      <link>https://example.com/tag/pagination/</link>
+    </image>
+    
+    <item>
+      <title>Hidden pagination showcase</title>
+      <link>https://example.com/posts/hidden-pagination-showcase/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/hidden-pagination-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;
+&lt;p&gt;In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

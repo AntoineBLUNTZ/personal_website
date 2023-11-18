@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>showcase | Academic</title>
+    <link>https://example.com/category/showcase/</link>
+      <atom:link href="https://example.com/category/showcase/index.xml" rel="self" type="application/rss+xml" />
+    <description>showcase</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>showcase</title>
+      <link>https://example.com/category/showcase/</link>
+    </image>
+    
+    <item>
+      <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
+      <link>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;
+&lt;p&gt;If you want to add your site to this showcase, click &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/issues/new?title=Add%20my%20blog%20into%20the%20showcase&amp;amp;body=Hey,%20add%20my%20blog%20into%20the%20showcase:&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and fill the following information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;public url&lt;/li&gt;
+&lt;li&gt;name (optional)&lt;/li&gt;
+&lt;li&gt;description (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;eric-bouchuts-blog&#34;&gt;Eric Bouchut&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://ericbouchut.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://i.imgur.com/zQmKIKNm.png&#34; alt=&#34;Eric Bouchut&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;robin-hus-blog&#34;&gt;Robin Hu&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://robinforest.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7SujaMam.png&#34; alt=&#34;Robin Hu&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zentechnistas-blog&#34;&gt;Zentechnista&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zentechnista.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7zN7WMMm.png&#34; alt=&#34;Zentechnista&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;viajes-dendariis-blog&#34;&gt;Viajes Dendarii&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dendarii.es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/tdXK3kYm.png&#34; alt=&#34;Viajes Dendarii&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wajahat-karims-blog&#34;&gt;Wajahat Karim&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://wajahatkarim.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/9BPoJvdm.png&#34; alt=&#34;Wajahat Karim&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;xiaoyun-yangs-blog&#34;&gt;Xiaoyun Yang&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://xiaoyunyang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/vVRSvhpm.png&#34; alt=&#34;Xiaoyun Yang&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;alfred-e-lins-blog&#34;&gt;Alfred E. Lin&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://alfredlin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/lHwsvIJm.png&#34; alt=&#34;Alfred E. Lin&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;philipp-gärtners-blog&#34;&gt;Philipp Gärtner&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://philippgaertner.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/Sx6oXnSm.png&#34; alt=&#34;Philipp Gärtner&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sagar-khatris-blog&#34;&gt;Sagar Khatri&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ragasirtahk.tk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/edZ3PO9m.png&#34; alt=&#34;Sagar Khatri&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dr-cruz-rincóns-blog&#34;&gt;Dr. Cruz Rincón&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cruzrincon.com.ve/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/XazQAolm.png&#34; alt=&#34;Dr. Cruz Rincón&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;björn-oettinghauss-blog&#34;&gt;Björn Oettinghaus&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.datisticsblog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8vSMWIam.png&#34; alt=&#34;Björn Oettinghaus&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ivan-fadila-putras-blog&#34;&gt;Ivan Fadila Putra&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ffadilaputra.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/r7tJa2Lm.png&#34; alt=&#34;Ivan Fadila Putra&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-balloon--fu-sen-blog&#34;&gt;🎈 BALLOON | FU-SEN blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://balloon.asia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7tDrORCm.png&#34; alt=&#34;🎈 BALLOON | FU-SEN blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;yue-haos-blog&#34;&gt;Yue Hao&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yueyvettehao.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/CDDrTr4m.png&#34; alt=&#34;Yue Hao&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;adrian-riyadis-blog&#34;&gt;Adrian Riyadi&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.adrian.id/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/s6yB9lFm.png&#34; alt=&#34;Adrian Riyadi&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vijay-matetis-blog&#34;&gt;Vijay Mateti&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://vijaymateti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8LMItYSm.png&#34; alt=&#34;Vijay Mateti&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;walid-benchaas-blog&#34;&gt;Walid Benchaa&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rekkodo.gitlab.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8yn9DaOm.png&#34; alt=&#34;Walid Benchaa&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;stella-wangs-blog&#34;&gt;Stella Wang&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hiwanglong.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/F0jVpsOm.png&#34; alt=&#34;Stella Wang&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;aditya-mangals-blog&#34;&gt;Aditya Mangal&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.adityamangal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/FKrnNGlm.png&#34; alt=&#34;Aditya Mangal&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;agonyuss-blog&#34;&gt;Agonyus&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://agonyus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/P25TDrFm.png&#34; alt=&#34;Agonyus&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;namshik-kims-blog&#34;&gt;Namshik Kim&amp;rsquo;s blog&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data science blog&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://physhik.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/oQ8i7k7m.png&#34; alt=&#34;Namshik Kim&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;razvan-avramescus-blog&#34;&gt;Razvan Avramescu&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.avramescu.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/vyhMGDFm.png&#34; alt=&#34;Razvan Avramescu&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

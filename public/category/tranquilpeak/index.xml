@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tranquilpeak | Academic</title>
+    <link>https://example.com/category/tranquilpeak/</link>
+      <atom:link href="https://example.com/category/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
+    <description>tranquilpeak</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>tranquilpeak</title>
+      <link>https://example.com/category/tranquilpeak/</link>
+    </image>
+    
+    <item>
+      <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
+      <link>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;
+&lt;p&gt;If you want to add your site to this showcase, click &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/issues/new?title=Add%20my%20blog%20into%20the%20showcase&amp;amp;body=Hey,%20add%20my%20blog%20into%20the%20showcase:&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and fill the following information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;public url&lt;/li&gt;
+&lt;li&gt;name (optional)&lt;/li&gt;
+&lt;li&gt;description (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;eric-bouchuts-blog&#34;&gt;Eric Bouchut&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://ericbouchut.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://i.imgur.com/zQmKIKNm.png&#34; alt=&#34;Eric Bouchut&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;robin-hus-blog&#34;&gt;Robin Hu&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://robinforest.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7SujaMam.png&#34; alt=&#34;Robin Hu&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zentechnistas-blog&#34;&gt;Zentechnista&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zentechnista.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7zN7WMMm.png&#34; alt=&#34;Zentechnista&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;viajes-dendariis-blog&#34;&gt;Viajes Dendarii&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://dendarii.es&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/tdXK3kYm.png&#34; alt=&#34;Viajes Dendarii&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wajahat-karims-blog&#34;&gt;Wajahat Karim&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://wajahatkarim.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/9BPoJvdm.png&#34; alt=&#34;Wajahat Karim&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;xiaoyun-yangs-blog&#34;&gt;Xiaoyun Yang&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://xiaoyunyang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/vVRSvhpm.png&#34; alt=&#34;Xiaoyun Yang&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;alfred-e-lins-blog&#34;&gt;Alfred E. Lin&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://alfredlin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/lHwsvIJm.png&#34; alt=&#34;Alfred E. Lin&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;philipp-gärtners-blog&#34;&gt;Philipp Gärtner&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://philippgaertner.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/Sx6oXnSm.png&#34; alt=&#34;Philipp Gärtner&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sagar-khatris-blog&#34;&gt;Sagar Khatri&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ragasirtahk.tk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/edZ3PO9m.png&#34; alt=&#34;Sagar Khatri&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dr-cruz-rincóns-blog&#34;&gt;Dr. Cruz Rincón&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cruzrincon.com.ve/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/XazQAolm.png&#34; alt=&#34;Dr. Cruz Rincón&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;björn-oettinghauss-blog&#34;&gt;Björn Oettinghaus&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.datisticsblog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8vSMWIam.png&#34; alt=&#34;Björn Oettinghaus&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ivan-fadila-putras-blog&#34;&gt;Ivan Fadila Putra&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ffadilaputra.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/r7tJa2Lm.png&#34; alt=&#34;Ivan Fadila Putra&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-balloon--fu-sen-blog&#34;&gt;🎈 BALLOON | FU-SEN blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://balloon.asia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/7tDrORCm.png&#34; alt=&#34;🎈 BALLOON | FU-SEN blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;yue-haos-blog&#34;&gt;Yue Hao&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yueyvettehao.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/CDDrTr4m.png&#34; alt=&#34;Yue Hao&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;adrian-riyadis-blog&#34;&gt;Adrian Riyadi&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.adrian.id/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/s6yB9lFm.png&#34; alt=&#34;Adrian Riyadi&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vijay-matetis-blog&#34;&gt;Vijay Mateti&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://vijaymateti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8LMItYSm.png&#34; alt=&#34;Vijay Mateti&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;walid-benchaas-blog&#34;&gt;Walid Benchaa&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://rekkodo.gitlab.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/8yn9DaOm.png&#34; alt=&#34;Walid Benchaa&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;stella-wangs-blog&#34;&gt;Stella Wang&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hiwanglong.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/F0jVpsOm.png&#34; alt=&#34;Stella Wang&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;aditya-mangals-blog&#34;&gt;Aditya Mangal&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.adityamangal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/FKrnNGlm.png&#34; alt=&#34;Aditya Mangal&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;agonyuss-blog&#34;&gt;Agonyus&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://agonyus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/P25TDrFm.png&#34; alt=&#34;Agonyus&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;namshik-kims-blog&#34;&gt;Namshik Kim&amp;rsquo;s blog&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data science blog&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://physhik.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/oQ8i7k7m.png&#34; alt=&#34;Namshik Kim&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;razvan-avramescus-blog&#34;&gt;Razvan Avramescu&amp;rsquo;s blog&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.avramescu.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.imgur.com/vyhMGDFm.png&#34; alt=&#34;Razvan Avramescu&amp;amp;rsquo;s blog&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elements showcase</title>
+      <link>https://example.com/posts/elements-showcase/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/elements-showcase/</guid>
+      <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
+&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;&#34;&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;u&gt;Underline text&lt;/u&gt; non elit nisl. &lt;del&gt;Deleted text&lt;/del&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. &lt;code&gt;Sed erat diam&lt;/code&gt;, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
+&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
+&lt;h3 id=&#34;definition-list-dl&#34;&gt;Definition List (dl)&lt;/h3&gt;
+&lt;dl&gt;&lt;dt&gt;Definition List Title&lt;/dt&gt;&lt;dd&gt;This is a definition list division.&lt;/dd&gt;&lt;/dl&gt;
+&lt;h3 id=&#34;ordered-list-ol&#34;&gt;Ordered List (ol)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unordered-list-ul&#34;&gt;Unordered List (ul)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List Item 1&lt;/li&gt;
+&lt;li&gt;List Item 2&lt;/li&gt;
+&lt;li&gt;List Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;table&#34;&gt;Table&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Header 1&lt;/th&gt;
+&lt;th&gt;Header 2&lt;/th&gt;
+&lt;th&gt;Header 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Division 1&lt;/td&gt;
+&lt;td&gt;Division 2&lt;/td&gt;
+&lt;td&gt;Division 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;misc-stuff---abbr-acronym-sub-sup-etc&#34;&gt;Misc Stuff - abbr, acronym, sub, sup, etc.&lt;/h2&gt;
+&lt;p&gt;Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet, consectetuer adipiscing &lt;kdb&gt;ctrl + c&lt;/kdb&gt;. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui.
+Nam
+sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;acronym title=&#34;National Basketball Association&#34;&gt;NBA&lt;/acronym&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title=&#34;Avenue&#34;&gt;AVE&lt;/abbr&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cover image showcase</title>
+      <link>https://example.com/posts/cover-image-showcase/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/cover-image-showcase/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.
+Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
+&lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.&lt;/p&gt;
+&lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden social section showcase</title>
+      <link>https://example.com/posts/hidden-social-section-showcase/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/hidden-social-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;
+&lt;p&gt;In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden tag section showcase</title>
+      <link>https://example.com/posts/hidden-tag-section-showcase/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/hidden-tag-section-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;
+&lt;p&gt;In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hidden pagination showcase</title>
+      <link>https://example.com/posts/hidden-pagination-showcase/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/hidden-pagination-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;
+&lt;p&gt;In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Video integrations showcase</title>
+      <link>https://example.com/posts/video-integrations-showcase/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/video-integrations-showcase/</guid>
+      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xL45JMI8IFg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Vimeo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/17877190&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>中文測試</title>
+      <link>https://example.com/posts/chinese-test/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/chinese-test/</guid>
+      <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;
+&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
+&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
+&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
+&lt;p&gt;國新故。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;From &lt;a href=&#34;http://www.richyli.com/tool/loremipsum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image gallery showcase</title>
+      <link>https://example.com/posts/image-gallery-showcase/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/image-gallery-showcase/</guid>
+      <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本語テスト</title>
+      <link>https://example.com/posts/japanese-test/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/japanese-test/</guid>
+      <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;
+&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。
+最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
+がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;a href=&#34;http://lipsum.sugutsukaeru.jp/index.cgi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

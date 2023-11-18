@@ -1,0 +1,99 @@
+baseURL: http://localhost:1313/subdir
+title: Puppet
+theme: puppet
+themesDir: themes
+copyright: ''
+paginate: 3
+languageCode: en
+defaultContentLanguage: en
+hasCJKLanguage: yes
+enableInlineShortcodes: yes
+enableEmoji: yes
+ignoreErrors: error-remote-getjson
+disqusShortname: ''
+googleAnalytics: ''
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    lineNos: yes
+    lineNumbersInTable: no
+    noClasses: yes
+    style: dracula
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: -100
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 10
+    - identifier: guide
+      name: Guide
+      url: /series/themes-guide/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+    - identifier: github
+      name: Github
+      url: https://github.com/roninro/hugo-theme-puppet/
+      weight: 100
+params:
+  author: Puppet
+  custom_css: []
+  custom_js: []
+  description: A simple and clean theme for Hugo
+  friends:
+    - name: John Doe
+      url: https://gohugo.io
+    - name: John Doe
+      url: https://gohugo.io
+  giscus:
+    category: General
+    category_id: DIC_kwDOHuvyh84CQjDo
+    enable: yes
+    input_position: top
+    lang: en
+    repo: roninro/hugo-theme-puppet
+    repo_id: R_kgDOHuvyhw
+    theme: light_tritanopia
+  img_404: img/404-bg.jpg
+  img_home: img/home-bg.jpg
+  keywords: blog,developer,personal
+  sidebar:
+    avatar: img/home-bg.jpg
+    bio: a personal website
+    enable: yes
+    gravatarEmail: ''
+  social:
+    facebook: johndoe
+    github: johndoe
+    gitlab: johndoe
+    linkedin: johndoe
+    mastodon:
+      format: https://mastodon.social/%v
+      icon: fab fa-mastodon
+      id: johndoe
+      url: ''
+      weight: 56
+    rss: yes
+    twitter: johndoe
+    weibo: johndoe
+    zhihu: johndoe
+  useFaviconGenerator: yes
